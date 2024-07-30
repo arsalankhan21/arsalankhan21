@@ -52,9 +52,6 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalankhan21&layout=compact&theme=radical" alt="Top Languages" />
   </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?userarsalankhan21&theme=radical" alt="GitHub Streak" />
-  </p>
   
   <!-- LeetCode Stats Section -->
   <h3 align="left">LeetCode Stats:</h3>
