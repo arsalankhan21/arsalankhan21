@@ -59,7 +59,7 @@
   <!-- LeetCode Stats Section -->
   <h3 align="left">LeetCode Stats:</h3>
   <p align="center">
-    <img src="https://leetcard.jacoblin.cool/arsalankhan21" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/arsalankhan26" alt="LeetCode Stats" />
   </p>
 
 </body>
