@@ -16,7 +16,7 @@
     <li>🏫 Honours Computer Science and Business Double Degree Student @ <a href="https://www.wlu.ca/">Wilfrid Laurier University</a></li>
     <li>🏆 SSHRC Scholarship Award Winner for Finance Management I - Research Assistant working with Data Science and Python</li>
     <li>📫 Contact: <a href="mailto:khan6264@mylaurier.ca">khan6264@mylaurier.ca</a></li>
-</ul>
+  </ul>
   
   <h3 align="left">Connect with me:</h3>
 
@@ -44,7 +44,23 @@
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
   ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white)
 
-
+  <!-- GitHub Stats Section -->   
+  <h3 align="left">GitHub Stats:</h3>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=arsalankhan21&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalankhan21&layout=compact&theme=radical" alt="Top Languages" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?userarsalankhan21&theme=radical" alt="GitHub Streak" />
+  </p>
+  
+  <!-- LeetCode Stats Section -->
+  <h3 align="left">LeetCode Stats:</h3>
+  <p align="center">
+    <img src="https://leetcard.jacoblin.cool/arsalankhan21" alt="LeetCode Stats" />
+  </p>
 
 </body>
 </html>
