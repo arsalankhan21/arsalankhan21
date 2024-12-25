@@ -46,19 +46,10 @@
   ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white)
 
   <!-- GitHub Stats Section -->   
-  <h3 align="left">GitHub Stats:</h3>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=arsalankhan21&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </p>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalankhan21&layout=compact&theme=radical" alt="Top Languages" />
   </p>
   
-  <!-- LeetCode Stats Section -->
-  <h3 align="left">LeetCode Stats:</h3>
-  <p align="center">
-    <img src="https://leetcard.jacoblin.cool/arsalankhan26" alt="LeetCode Stats" />
-  </p>
 
 </body>
 </html>
