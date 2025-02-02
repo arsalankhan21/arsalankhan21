@@ -15,7 +15,7 @@
     <li>💻 Ex - Backend Software Engineer @ <a href="https://woulibx.com/">Woulibx</a></li>
     <li>🏫 Honours Computer Science and Business Double Degree Student @ <a href="https://www.wlu.ca/">Wilfrid Laurier University</a></li>
     <li>🏫 IEEE 2024 Undergraduate Scholarship Winner</a></li>
-    <li>🏆 SSHRC Scholarship Award Winner for Finance Management I - Research Assistant working with Data Science and Python</li>
+    <li>🏆 SSHRC Scholarship Award Winner for Finance Management I - Research Assistant working Python</li>
     <li>📫 Contact: <a href="mailto:khan6264@mylaurier.ca">khan6264@mylaurier.ca</a></li>
   </ul>
   
