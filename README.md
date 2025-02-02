@@ -45,11 +45,6 @@
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
   ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white)
 
-  <!-- GitHub Stats Section -->   
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalankhan21&layout=compact&theme=radical" alt="Top Languages" />
-  </p>
-  
 
 </body>
 </html>
