@@ -12,6 +12,7 @@
   <br><br>
   
   <ul>
+    <li>💻 AI Automation Software Engineer @ <a href="https://www.definityfinancial.com/English/overview/default.aspx">Definity</a></li>
     <li>💻 Ex - Backend Software Engineer @ <a href="https://woulibx.com/">Woulibx</a></li>
     <li>🏫 Honours Computer Science and Business Double Degree Student @ <a href="https://www.wlu.ca/">Wilfrid Laurier University</a></li>
     <li>🏫 IEEE 2024 Undergraduate Scholarship Winner</a></li>
