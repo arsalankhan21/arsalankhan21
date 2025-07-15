@@ -17,7 +17,7 @@
     <li>🏫 Honours Computer Science and Business Double Degree Student @ <a href="https://www.wlu.ca/">Wilfrid Laurier University</a></li>
     <li>🏫 IEEE 2024 Undergraduate Scholarship Winner</a></li>
     <li>🏆 SSHRC Scholarship Award Winner for Finance Management I - Research Assistant working with Python</li>
-    <li>🏆 NSERC Scholarship Award Winner - Research Assistant working with EV V2G AI - Optimization</li>
+    <li>🏆 NSERC Scholarship Award Winner - Research Assistant working on EV V2G AI Paper </li>
     <li>📫 Contact: <a href="mailto:khan6264@mylaurier.ca">khan6264@mylaurier.ca</a></li>
   </ul>
   
